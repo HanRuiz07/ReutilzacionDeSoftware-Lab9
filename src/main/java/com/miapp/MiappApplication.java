@@ -1,4 +1,4 @@
-package com.miapp.miapp;
+package com.miapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
